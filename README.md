@@ -12,6 +12,7 @@
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eric-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Eric-tailwind" height="30" width="40" src="https://raw.githubusercontent.com/aniftyco/awesome-tailwindcss/master/assets/logo.svg">
+  <img align="center" alt="Eric-Sass" height="30" width="40" src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg">
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eric-Ts" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eric-Nextjs" height="30" width="40" src="https://user-images.githubusercontent.com/28990749/71623319-6795bf80-2bba-11ea-8401-6192d94f3fef.png">
