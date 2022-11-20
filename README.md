@@ -1,4 +1,4 @@
-### Can you hear me??? I did make my career transition and now, I'm working like a Pleno Web Developer and being happy!  Here is Eric de Souza Porto Carvalho 👋   
+### Can you hear me??? I did make my career transition 4 years ago and now, I'm working like a Pleno(Mid) Web Developer! Do you want to know about my history? Send me a message!!  Here is Eric de Souza Porto Carvalho 👋   
 
 
 <div align="center">
