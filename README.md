@@ -1,4 +1,4 @@
-👋 Olá, eu sou Eric Porto
+👋 Olá, eu sou Eric de Souza Porto Carvalho
 
 Senior Frontend Engineer | React • TypeScript • Arquitetura de Frontend
 
