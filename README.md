@@ -22,7 +22,11 @@ pipelines CI/CD
 
 observabilidade e monitoramento com Datadog
 
-
+<div align="center">
+  <a href="https://github.com/ericsporto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsporto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
     
   <div align="center">   
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
