@@ -1,4 +1,26 @@
-### Frontend Software Engineer with over 6 years of experience developing scalable web applications in fintech, retail, edtech, and startup environments. Specialist in React, Next.js, Vue.js, and TypeScript, with a strong focus on microfrontend architecture, design systems, and performance-oriented interface development. Experienced in agile environments, collaborating with multidisciplinary teams for continuous software delivery using automated testing, CI/CD pipelines, and modern engineering and observability practices with Datadog.   
+👋 Olá, eu sou Eric Porto
+
+Senior Frontend Engineer | React • TypeScript • Arquitetura de Frontend
+
+Desenvolvedor Frontend com mais de 6 anos de experiência construindo aplicações web escaláveis em ambientes de fintech, varejo, edtech e startups.
+
+Especialista em desenvolvimento com React, Next.js, Vue.js e TypeScript, com forte foco em:
+
+arquitetura de microfrontends
+
+design systems
+
+performance de aplicações
+
+interfaces escaláveis
+
+Tenho experiência trabalhando em times ágeis e multidisciplinares, contribuindo para entrega contínua de software com:
+
+testes automatizados
+
+pipelines CI/CD
+
+observabilidade e monitoramento com Datadog
 
 
 <div align="center">
@@ -6,7 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsporto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
     
   <div align="center">   
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
