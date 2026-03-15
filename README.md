@@ -1,4 +1,4 @@
-### Can you hear me??? After I did make my career transition 4 years ago, I'm working like a Senior Web/Software Developer! Do you want to know about my history? Send me a message!!  Here is Eric de Souza Porto Carvalho 👋   
+### Frontend Software Engineer with over 6 years of experience developing scalable web applications in fintech, retail, edtech, and startup environments. Specialist in React, Next.js, Vue.js, and TypeScript, with a strong focus on microfrontend architecture, design systems, and performance-oriented interface development. Experienced in agile environments, collaborating with multidisciplinary teams for continuous software delivery using automated testing, CI/CD pipelines, and modern engineering and observability practices with Datadog.   
 
 
 <div align="center">
