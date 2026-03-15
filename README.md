@@ -6,21 +6,58 @@ Desenvolvedor Frontend com mais de 6 anos de experiência construindo aplicaçõ
 
 Especialista em desenvolvimento com React, Next.js, Vue.js e TypeScript, com forte foco em:
 
-arquitetura de microfrontends
+- arquitetura de microfrontends
 
-design systems
+- design systems
 
-performance de aplicações
+- performance de aplicações
 
-interfaces escaláveis
+- interfaces escaláveis
 
 Tenho experiência trabalhando em times ágeis e multidisciplinares, contribuindo para entrega contínua de software com:
 
-testes automatizados
+- testes automatizados
 
-pipelines CI/CD
+- pipelines CI/CD
 
-observabilidade e monitoramento com Datadog
+- observabilidade e monitoramento com Datadog
+
+🚀 Principais competências
+
+- Desenvolvimento de aplicações com React e TypeScript
+
+- Arquitetura de microfrontends
+
+- Criação e evolução de design systems
+
+- Otimização de performance de aplicações web
+
+- Integração com APIs complexas
+
+- Colaboração em ambientes ágil (Scrum/Kanban)
+
+  🧠 Stack principal
+
+Frontend
+
+React
+Next.js
+Vue.js
+TypeScript
+JavaScript
+
+Arquitetura & Engenharia
+
+Microfrontends
+Design Systems
+Performance Web
+
+Ferramentas
+
+Git
+Docker
+CI/CD
+Datadog
     
   <div align="center">   
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
